@@ -1,0 +1,26 @@
+{
+  "name": "restaurant-reviews-stage-1",
+  "version": "1.0.0",
+  "description": "Welcome to The Restaurant Reviews, a revolutionary restaurant rating by and for people who know good food.",
+  "main": "gulp.js",
+  "dependencies": {
+    "focus-visible": "^4.1.5"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "browser-sync": "2.12.8",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-babel": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
