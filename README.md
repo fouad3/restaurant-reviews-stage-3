@@ -10,7 +10,7 @@
 
 ## Description
 took the connected application built in [Stage One](https://github.com/fouad3/restaurant-reviews-stage-1) and [Stage Two](https://github.com/fouad3/restaurant-reviews-stage-2) and added additional functionality. added a form to allow users to create their own reviews. If the app is offline, the form will defer updating to the remote database until a connection is established. Finally, i worked to optimize the site to meet even stricter performance benchmarks than the previous stages, and test again using [Lighthouse](https://developers.google.com/web/tools/lighthouse), this project is a part of the Udacity's [Mobile Web Specialist
-Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024).
+Nanodegree](https://in.udacity.com/course/mobile-web-specialist-nanodegree--nd024).
 
 
 ## Project Folder Structure
